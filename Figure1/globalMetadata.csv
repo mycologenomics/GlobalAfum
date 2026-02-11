@@ -1,0 +1,1221 @@
+ID,Latitude,Longitude,Year,Country,Cyp51A,MAT,Source,benA,cytB,sdhB,ITR MIC,DAPC,TEB,msh6
+C45,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C46,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C47,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+C48,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C49,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C50,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+C57,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,Y
+C60,53.349805,-6.26031,2012,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C63,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C64,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C65,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C67,53.349805,-6.26031,2010,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C68,53.349805,-6.26031,2010,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C73,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C74,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C75,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+U1,53.349805,-6.26031,2010,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+U2,53.349805,-6.26031,,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C42,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C53,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C56,53.349805,-6.26031,2012,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C59,53.349805,-6.26031,2010,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E287,51.617608,-1.068057,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+E317,51.649206,-0.433376,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E348,50.350321,-4.033167,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E354,50.350321,-4.033167,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+U3,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C51,53.349805,-6.26031,2012,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C58,53.349805,-6.26031,2010,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C62,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C72,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E297,51.618533,-0.776019,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E301,51.618533,-0.776019,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E303,51.618533,-0.776019,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E308,53.809,-3.015526,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E321,51.649206,-0.433376,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E336,52.132633,5.291266,2018,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E343,50.834432,-0.431149,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E356,53.01707,-1.629936,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E362,52.433631,-1.790078,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E375,53.332989,-2.214317,2018,UK,Wildtype/Asp262Tyr,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E388,51.496174,-2.596247,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E295,51.597187,-1.131219,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+E346,53.315515,-1.530895,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C43,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C44,53.349805,-6.26031,2011,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+C52,53.349805,-6.26031,2012,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C55,53.349805,-6.26031,2012,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,Y
+C61,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C66,53.349805,-6.26031,2013,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C69,53.349805,-6.26031,2013,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster2,Not_tested,Y
+C76,53.349805,-6.26031,,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+C77,53.349805,-6.26031,2015,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E2,52.132633,5.291266,2008,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C128,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C207,50.836601,4.30708,2016,Belgium,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+C232,51.812565,5.837226,2010,Netherlands,TR46/Y121F/T289A,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+C244,51.812565,5.837226,2016,Netherlands,TR46/Y121F/T289A,MAT-1-2,Clinical,F219Y,G143A,H270Y,Not_resistant,Cluster3,Not_tested,Y
+C386,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C395,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C411,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C412,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C413,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C414,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C5,53.800755,-1.549077,2012,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E534,28.1022,-81.712,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,H270Y,Not_resistant,Cluster4,Not_tested,N
+E536,28.1022,-81.712,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E540,28.1022,-81.712,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E542,28.1022,-81.712,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E545,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E549,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E551,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E555,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E563,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E564,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E567,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E568,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E571,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E572,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E573,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E578,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E581,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E582,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E585,33.9033,-83.3739,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E588,33.9033,-83.3739,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E533,28.1022,-81.712,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E591,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E611,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C129,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C3,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C415,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C416,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C417,35.60413,140.135986,2009,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C70,53.349805,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster2,Not_tested,Y
+C71,53.349805,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster2,Not_tested,Y
+C85,51.507351,-0.127758,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster2,Not_tested,Y
+C98,53.38113,-1.470085,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+C99,51.481581,-3.17909,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E204,57.149715,-2.094278,2016,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E206,57.149715,-2.094278,2016,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+E535,28.1022,-81.712,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E537,28.1022,-81.712,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E538,28.1022,-81.712,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E539,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E544,28.1022,-81.712,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E546,28.1022,-81.712,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E547,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E548,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E550,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E552,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E553,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E554,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E556,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E557,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E558,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E559,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E560,27.7611,-82.2277,2018,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E561,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E562,31.4746,-83.5308,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E565,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E566,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E569,31.5487,-84.1764,2017,USA,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E570,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E574,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E575,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E576,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E577,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E579,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E580,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E583,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E584,31.5487,-84.1764,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E589,33.9033,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E593,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E594,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E595,31.4746,-83.3739,2017,USA,TR46,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E596,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E597,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E598,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E599,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E600,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E601,31.4746,-83.5308,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E602,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E603,31.4746,-83.3739,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E604,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E606,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E607,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E608,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E609,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E610,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E612,31.4746,-83.5308,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E613,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E614,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,N
+E615,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E616,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E617,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E618,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E620,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E621,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E623,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E624,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+E625,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E626,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E627,31.9672,-83.7836,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+E586,33.9033,-83.3739,2017,USA,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+E587,33.9033,-83.3739,2017,USA,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_resistant,Cluster4,Not_tested,N
+E622,34.8786,-83.9555,2017,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_tested,N
+C130,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+C208,50.879845,4.700518,2017,Belgium,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C334,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+C342,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+C81,55.598676,-2.72191,2013,UK,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E590,33.9033,-83.3739,2017,USA,TR46/Y121F/T289A,MAT-1-2,Environmental,Wildtype,G143A,H270Y,Resistant,Cluster3,Not_tested,Y
+C222,52.090736,5.12142,2006,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C230,52.090736,5.12142,2009,Netherlands,TR46/Y121F/T289A,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C418,35.60413,140.135986,2011,Japan,P216L,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+C78,53.349805,-6.26031,2015,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C80,53.349805,-6.26031,2015,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C97,51.486555,-0.219482,2017,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E205,57.149715,-2.094278,2016,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C100,52.486243,-1.890401,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster5,Not_tested,N
+C236,51.812565,5.837226,2013,Netherlands,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C101,52.205337,0.121817,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C132,53.800755,-1.549077,2009,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C139,51.486555,-0.219482,2016,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+C82,50.82253,-0.137163,2014,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C93,51.450179,-2.583294,2016,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E288,51.617608,-1.068057,2018,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E291,53.779542,-1.508761,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+E293,51.603661,-1.132453,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E296,51.597187,-1.131219,2018,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E298,51.618533,-0.776019,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E302,51.618533,-0.776019,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E304,51.618533,-0.776019,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E305,51.618533,-0.776019,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+E307,53.809,-3.015526,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E309,53.809,-3.015526,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+E312,53.25271,-2.516405,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+E315,51.649206,-0.433376,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E316,51.649206,-0.433376,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E318,51.649206,-0.433376,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E322,51.649206,-0.433376,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E324,55.923618,-3.176225,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E325,55.923618,-3.176225,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E327,52.34736,-1.935833,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E330,52.132633,5.291266,2018,Netherlands,TR34,MAT-1-2,Environmental,Wildtype,G143A,Wildtype,Resistant,Cluster1,Not_tested,N
+E333,52.132633,5.291266,2018,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E334,52.132633,5.291266,2018,Netherlands,TR34/L98H,MAT-1-1,Environmental,F219Y,Wildtype,H270Y,Resistant,Cluster3,Not_tested,Y
+E337,52.132633,5.291266,2018,Netherlands,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E339,52.132633,5.291266,2018,Netherlands,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E341,52.132633,5.291266,2018,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E342,50.834432,-0.431149,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E347,53.315515,-1.530895,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E349,50.350321,-4.033167,2018,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E353,50.350321,-4.033167,2018,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+E355,50.350321,-4.033167,2018,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+E357,53.01707,-1.629936,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E359,52.433631,-1.790078,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E364,52.433631,-1.790078,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E365,50.101925,-5.551099,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster5,Not_tested,N
+E368,52.53979,13.262126,2018,Germany,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E370,51.33087,12.439071,2018,Germany,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E373,51.538055,0.0125,2018,UK,TR34,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E374,51.538055,0.0125,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E376,53.332989,-2.214317,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E379,53.302646,-3.815881,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+E380,54.395998,-3.478754,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E381,54.395998,-3.478754,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E382,52.206241,1.581443,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E383,51.730568,-0.453951,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,Y
+E385,55.016538,-1.619684,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E386,50.930813,-1.443425,2018,UK,TR34/L98H,MAT-1-1,Environmental,F219Y,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+C133,53.800755,-1.549077,2009,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C54,53.349805,-6.26031,2012,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C367,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_tested,Y
+C370,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_tested,N
+C385,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_tested,N
+C10,52.132633,5.291266,2010,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,G143A,H270Y,Resistant,Cluster3,Not_tested,Y
+C102,52.636878,-1.139759,2016,UK,G54R,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+C103,51.486555,-0.219482,2015,UK,G54E,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+C104,51.525083,-0.136355,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C105,51.521879,-0.121042,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C12,28.690637,77.20994,2009,India,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster1,Not_tested,N
+C202,50.879845,4.700518,2014,Belgium,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C215,51.812565,5.837226,1998,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+C217,51.812565,5.837226,2001,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+C218,51.812565,5.837226,2002,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+C220,51.812565,5.837226,2004,Netherlands,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C223,52.090736,5.12142,2007,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C224,53.201233,5.799913,2007,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C225,51.924419,4.477733,2007,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C226,52.370216,4.895168,2008,Netherlands,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C228,53.219383,6.566502,2008,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C233,52.090736,5.12142,2011,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C234,51.924419,4.477733,2012,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,G143A,H270Y,Resistant,Cluster3,Not_tested,Y
+C235,52.221539,6.893662,2012,Netherlands,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,H270Y,Resistant,Cluster4,Not_tested,N
+C237,53.219383,6.566502,2014,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C239,51.812565,5.837226,2016,Netherlands,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C245,51.924419,4.477733,2017,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster1,Not_tested,N
+C249,53.219383,6.566502,2017,Netherlands,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster4,Not_tested,N
+C7,52.132633,5.291266,2003,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+C86,55.953252,-3.188267,2015,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C9,52.132633,5.291266,2004,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C91,53.408371,-2.991573,2015,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C92,51.481581,-3.17909,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C96,55.922125,-3.134835,2015,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E15,51.443712,-3.302592,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E16,51.425458,-3.556041,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E17,51.839927,-4.151486,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270R,Resistant,Cluster3,Not_tested,Y
+E18,51.839927,-4.151486,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E19,51.839927,-4.151486,2015,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E20,51.418406,-3.370837,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Resistant,Cluster3,Not_tested,Y
+E202,57.149715,-2.094278,2016,UK,TR34,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E21,51.418406,-3.370837,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E22,51.418406,-3.370837,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E23,51.474035,-3.479485,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E24,51.474035,-3.479485,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E25,51.474035,-3.479485,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E26,51.474035,-3.479485,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E27,51.421121,-3.178953,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+E281,52.132633,5.291266,2007,Netherlands,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E32,51.513482,-3.184956,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E33,51.505766,-3.173847,2015,UK,G54R,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster1,Not_tested,N
+E34,51.505766,-3.173847,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+E35,51.505766,-3.173847,2015,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,H270Y,Resistant,Cluster3,Not_tested,Y
+E36,51.505766,-3.173847,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E4,52.132633,5.291266,2008,Netherlands,TR34/L98H,MAT-1-2,Environmental,Wildtype,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E506,9.171262,105.160672,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E507,10.801077,106.645702,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+E508,10.752462,106.679823,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E509,10.754665,106.710162,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E510,10.754665,106.710162,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,N
+E511,10.754665,106.710162,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+E7,25.096074,85.313119,2011,India,TR34/L98H,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+E8,28.690637,77.20994,2011,India,TR34/L98H,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster1,Not_tested,N
+C131,53.800755,-1.549077,2009,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C320,51.488709,-0.170508,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C323,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Not_tested,Y
+C330,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C338,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_tested,N
+C346,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C201,51.000061,3.32499,2015,Belgium,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C205,50.879845,4.700518,2016,Belgium,TR34/L98H,MAT-1-1,Clinical,Wildtype,G143A,Wildtype,Resistant,Cluster1,Not_tested,N
+C240,52.370216,4.895168,2016,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,H270Y,Resistant,Cluster3,Not_tested,Y
+C242,51.924419,4.477733,2016,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Not_tested,Y
+C243,50.851368,5.690972,2016,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_tested,Y
+C106,51.488709,-0.170508,2015,UK,G54W,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C108,51.488709,-0.170508,2015,UK,G54W,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C109,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C110,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C112,51.488709,-0.170508,2015,UK,G54W,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C113,51.488709,-0.170508,2015,UK,G54W,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C114,51.488709,-0.170508,2015,UK,G54W,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C115,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C116,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C117,51.488709,-0.170508,2015,UK,G54W,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C120,51.488709,-0.170508,2015,UK,P216L,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C122,51.488709,-0.170508,2015,UK,G54W,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C123,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C124,51.488709,-0.170508,2015,UK,G54W,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C125,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C126,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C127,51.488709,-0.170508,2015,UK,P216L,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C134,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C135,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C136,53.800755,-1.549077,2009,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C144,51.486555,-0.219482,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C145,51.486555,-0.219482,2015,UK,G54W,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C147,51.488709,-0.170508,2014,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C148,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C149,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C15,36.594682,136.625573,2009,Japan,Wildtype,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C150,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C152,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C153,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C155,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C156,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C157,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C158,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C159,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C16,35.605057,140.123306,2009,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C160,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C161,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C163,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C164,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C166,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C167,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C168,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C169,51.488709,-0.170508,2014,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C17,35.605057,140.123306,2007,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C170,51.488709,-0.170508,2014,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C171,51.488709,-0.170508,2014,UK,G54R,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C172,51.488709,-0.170508,2014,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C174,37.741249,-25.675594,1937,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C175,37.741249,-25.675594,1945,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C177,-31.253218,146.921099,2015,Australia,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C178,-31.253218,146.921099,2015,Australia,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C179,-31.253218,146.921099,2017,Australia,G54R,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C18,35.605057,140.123306,2009,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C180,-31.253218,146.921099,2016,Australia,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C181,-37.471308,144.785153,2012,Australia,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C182,-31.253218,146.921099,2016,Australia,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C183,-31.253218,146.921099,2016,Australia,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+C184,-31.253218,146.921099,2015,Australia,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C185,-37.471308,144.785153,2016,Australia,G54R,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C186,-41.45452,145.970665,2016,Australia,TR34/L98H,MAT-1-2,Clinical,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+C187,53.551086,9.993682,2011,Germany,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C189,6.25064,-75.57036,2017,Colombia,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C19,35.605057,140.123306,2011,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C190,6.25064,-75.57036,2017,Colombia,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C191,53.349804,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C192,53.349804,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C193,53.349804,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C194,53.349804,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C195,53.349804,-6.26031,,Republic of Ireland,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C196,53.349804,-6.26031,,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C197,53.349804,-6.26031,,Republic of Ireland,TR46/Y121F/T289A,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C198,53.349804,-6.26031,,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C199,53.349804,-6.26031,,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C20,35.605057,140.123306,2009,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C200,53.349804,-6.26031,,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C209,42.923809,143.196632,2013,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C21,35.605057,140.123306,2012,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C210,42.923809,143.196632,2013,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C211,42.923809,143.196632,2013,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C213,42.923809,143.196632,2015,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,Y
+C214,42.923809,143.196632,2016,Japan,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C22,35.689487,139.691706,2012,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C23,35.501133,134.235091,2009,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C24,32.750286,129.877667,2009,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C25,35.605057,140.123306,2009,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C250,37.09024,-95.712891,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C251,37.09024,-95.712891,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C252,43.193851,-71.572395,2018,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C253,37.09024,-95.712891,2013,USA,G54W,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C254,41.203323,-77.194527,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C255,38.907192,-77.036873,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C256,31.968599,-99.90181,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C257,37.431572,-78.656891,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C258,36.778259,-119.417931,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C259,37.09024,-95.712891,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C26,35.605057,140.123306,2010,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C260,37.09024,-95.712891,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C261,37.09024,-95.712891,2013,USA,P216L,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C262,37.09024,-95.712891,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C263,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C264,37.09024,-95.712891,2011,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C265,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C266,37.09024,-95.712891,2011,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C267,37.09024,-95.712891,2010,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C268,37.09024,-95.712891,2011,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C269,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C27,34.655146,133.919502,2010,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C270,37.09024,-95.712891,2010,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C271,37.09024,-95.712891,2010,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C272,37.09024,-95.712891,2010,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C273,37.09024,-95.712891,2010,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C274,37.09024,-95.712891,2013,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C275,37.09024,-95.712891,2011,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C276,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C277,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C278,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C279,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C28,35.605057,140.123306,2012,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C280,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C281,37.09024,-95.712891,2012,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C282,37.09024,-95.712891,2011,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C283,32.165623,-82.900078,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C284,35.51749,-86.580444,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C285,41.203323,-77.194527,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C286,40.267193,-86.134903,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C287,40.267193,-86.134903,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C288,38.907192,-77.036873,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C289,40.712776,-74.005974,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C29,34.693738,135.502165,2012,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C290,32.165623,-82.900078,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C291,41.203323,-77.194527,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C292,36.778259,-119.417931,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C293,36.778259,-119.417931,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C294,36.778259,-119.417931,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C295,45.253784,-69.445473,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C296,39.550053,-105.782066,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C297,39.550053,-105.782066,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C298,32.165623,-82.900078,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C299,44.314842,-85.602364,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C30,35.180188,136.906565,2013,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C300,53.4877463,-2.2891921,,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C301,53.4877463,-2.2891921,,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C302,36.778259,-119.417931,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C303,34.048927,-111.093735,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C304,38.907192,-77.036873,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C305,34.519939,-105.870087,,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C308,51.488709,-0.170508,2018,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C31,35.689487,139.691706,2014,Japan,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C318,51.488709,-0.170508,2018,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,Y
+C326,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C33,53.480759,-2.242631,1997,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C336,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C339,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C341,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C344,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C345,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C347,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C348,51.488709,-0.170508,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C35,51.481581,-3.17909,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C353,51.488709,-0.170508,2018,UK,L98H/M220K,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C354,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C356,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C357,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C358,51.488709,-0.170508,2016,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,Y
+C36,51.481581,-3.17909,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+C362,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C365,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C369,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C37,51.481581,-3.17909,2013,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C372,51.488709,-0.170508,2016,UK,G54W,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+C373,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C374,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C379,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C38,51.481581,-3.17909,2013,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C382,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C383,51.488709,-0.170508,2019,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C384,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C387,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C388,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C39,51.481581,-3.17909,2014,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C391,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C393,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C398,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C400,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C401,51.488709,-0.170508,,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C402,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+C403,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C404,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C405,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C406,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C407,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C408,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C409,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C41,51.481581,-3.17909,2014,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C410,52.083828,5.119674,2020,Netherlands,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C443,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C444,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C445,37.4316,-78.6569,2016,USA,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C446,46.8797,-110.3626,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C447,40.4173,-82.9071,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C448,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C449,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C450,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C451,40.6331,-89.3985,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C452,37.4316,-78.6569,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C453,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C454,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C455,30.9843,-91.9623,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C456,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C457,42.4072,-71.3824,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C458,27.6648,-81.5158,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C459,40.6331,-89.3985,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C460,40.4173,-82.9071,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C461,27.6648,-81.5158,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C462,41.2033,-77.1945,2016,USA,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C463,32.1656,-82.9001,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C464,27.6648,-81.5158,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C465,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C466,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C467,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C468,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C469,30.9843,-91.9623,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C470,31.9686,-99.9018,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C471,40.2672,-86.1349,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C472,44.3148,-85.6024,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C473,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C474,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C475,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C476,35.5175,-86.5804,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C477,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C478,39.5501,-105.7821,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C479,37.8393,-84.27,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C480,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C481,39.5501,-105.7821,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C482,40.7128,-74.006,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C483,41.878,-93.0977,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C484,40.2672,-86.1349,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C485,40.2672,-86.1349,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C486,37.8393,-84.27,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C487,40.4173,-82.9071,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C488,27.6648,-81.5158,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C489,40.0583,-74.4057,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C490,35.5175,-86.5804,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C491,44.3148,-85.6024,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C492,40.6331,-89.3985,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C493,40.7128,-74.006,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C494,40.6331,-89.3985,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C495,40.6331,-89.3985,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C496,40.6331,-89.3985,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C497,40.6331,-89.3985,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C498,36.7783,-119.4179,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C499,36.7783,-119.4179,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C500,34.0489,-111.0937,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C501,42.4072,-71.3824,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C502,42.4072,-71.3824,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C503,42.4072,-71.3824,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C504,40.7128,-74.006,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C505,42.4072,-71.3824,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C506,42.4072,-71.3824,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C507,43.076,-107.2903,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C508,34.0489,-111.0937,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C509,46.7296,-94.6859,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C510,46.7296,-94.6859,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C511,37.8393,-84.27,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C512,39.0458,-76.6413,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C513,39.0458,-76.6413,2014,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C514,39.0458,-76.6413,2014,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C515,40.7128,-74.006,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C516,38.9108,-75.5277,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C517,38.9108,-75.5277,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C518,47.5515,-101.002,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C519,41.2033,-77.1945,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C520,34.0489,-111.0937,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C521,41.2033,-77.1945,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C522,41.2033,-77.1945,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C523,39.0458,-76.6413,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C524,39.0458,-76.6413,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C525,40.7128,-74.006,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C526,40.2672,-86.1349,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C527,40.2672,-86.1349,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C528,39.0458,-76.6413,2014,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C529,41.2033,-77.1945,2015,USA,TR34,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C530,41.2033,-77.1945,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C531,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C532,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C533,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C534,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C535,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C536,44.3148,-85.6024,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C537,35.7596,-79.0193,2013,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C538,35.7596,-79.0193,2013,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C539,37.09024,-95.712891,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C540,37.09024,-95.712891,,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C541,35.7596,-79.0193,2014,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C542,37.4316,-78.6569,2017,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C543,37.4316,-78.6569,2017,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C544,38.5976,-80.4549,2017,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+C545,44.3148,-85.6024,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C546,36.7783,-119.4179,2017,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C547,41.2033,-77.1945,2017,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C548,36.7783,-119.4179,2017,USA,TR34/L98H,MAT-1-2,Clinical,Wildtype,G143A,Wildtype,Not_tested,Cluster3,Not_tested,N
+C549,37.4316,-78.6569,2016,USA,TR34/L98H,MAT-1-2,Clinical,Wildtype,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C550,41.2033,-77.1945,2017,USA,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C551,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C552,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C553,40.0583,-74.4057,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C554,40.0583,-74.4057,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C555,35.201,-91.8318,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C556,44.3148,-85.6024,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C557,38.9108,-75.5277,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+C558,46.8797,-110.3626,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C559,43.076,-107.2903,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C560,46.8797,-110.3626,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+C561,35.201,-91.8318,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C562,32.3547,-89.3985,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C563,37.8393,-84.27,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C564,37.8393,-84.27,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C565,35.201,-91.8318,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C566,31.9686,-99.9018,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C567,31.9686,-99.9018,2015,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C568,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C569,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C570,37.09024,-95.712891,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C571,43.7844,-88.7879,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C572,37.4316,-78.6569,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C573,64.2008,-149.4937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C574,38.9108,-75.5277,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C575,32.1656,-82.9001,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C576,43.076,-107.2903,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+C577,38.9108,-75.5277,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C578,40.2672,-86.1349,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C579,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C580,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C581,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C582,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C583,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C584,32.3182,-86.9023,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C585,32.1656,-82.9001,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C586,32.1656,-82.9001,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C587,40.4173,-82.9071,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C588,40.0583,-74.4057,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C589,40.2672,-86.1349,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C590,40.6331,-89.3985,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C591,35.201,-91.8318,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C592,40.0583,-74.4057,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C593,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C594,41.2033,-77.1945,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C595,34.0489,-111.0937,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C596,34.5199,-105.8701,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C597,37.9643,-91.8318,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C598,42.4072,-71.3824,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C599,35.201,-91.8318,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C600,40.4173,-82.9071,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C601,39.5501,-105.7821,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C602,40.2672,-86.1349,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C603,40.2672,-86.1349,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C604,32.1656,-82.9001,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C605,38.9072,-77.0369,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C606,27.6648,-81.5158,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C607,37.9643,-91.8318,2016,USA,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C608,27.6648,-81.5158,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C611,53.3393,6.2965,2021,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C612,53.3393,6.2965,2021,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+C79,53.349805,-6.26031,2015,Republic of Ireland,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+C84,36.778261,-119.417932,1997,USA,G54E,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+C95,51.650746,-0.215259,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E10,51.538694,-3.125695,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E100,30.200678,30.78384,2002,South Africa,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E101,8.524139,76.936638,1997,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E107,52.954783,-1.158109,2012,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E109,-33.924869,18.424055,2001,South Africa,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E11,51.538694,-3.125695,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E112,10.823099,106.629664,2002,Vietnam,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E114,31.23039,121.473702,2004,China,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E117,-15.387526,28.322817,,Zambia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E120,21.438912,-158.000057,1997,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E123,-17.825166,31.03351,2002,Zimbabwe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E124,7.873054,80.771797,1991,Sri Lanka,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E125,29.951066,-90.071532,,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E127,19.432608,-99.133208,2005,Mexico,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E128,19.432608,-99.133208,2005,Mexico,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E130,23.03034,-81.532215,1999,Cuba,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E131,18.52043,73.856744,1998,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E133,52.954783,-1.158109,2012,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E134,34.092809,-118.328661,1999,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E135,23.03034,-81.532215,1999,Cuba,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E136,53.70039,-0.80657,2010,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E137,41.203322,-77.194525,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E14,51.441624,-3.276812,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E140,40.712775,-74.005973,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E141,41.203322,-77.194525,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E142,39.045755,-76.641271,,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E143,36.778261,-119.417932,2009,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E144,36.778261,-119.417932,2009,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E145,32.165622,-82.900075,,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E146,32.165622,-82.900075,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E147,32.165622,-82.900075,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E148,32.165622,-82.900075,,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E149,32.165622,-82.900075,,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E150,-31.253218,146.921099,,Australia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E151,-31.253218,146.921099,,Australia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E152,-31.253218,146.921099,,Australia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E153,-31.253218,146.921099,,Australia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E154,-31.253218,146.921099,,Australia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E155,-31.253218,146.921099,,Australia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E156,-31.253218,146.921099,,Australia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E157,-31.253218,146.921099,,Australia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E158,-31.253218,146.921099,,Australia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E159,-31.253218,146.921099,,Australia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E160,20.593683,78.962883,2013,India,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E161,20.593683,78.962883,2013,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E163,20.593683,78.962883,2013,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E166,20.593683,78.962883,2013,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E167,20.593683,78.962883,2013,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E170,52.633889,13.468333,2012,Germany,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E171,51.756353,14.714227,2012,Germany,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E172,48.460863,12.73122,2012,Germany,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E174,2.522382,32.15589,2015,Tanzania,Wildtype,MAT-1-1,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E175,2.831621,32.21512,2015,Tanzania,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E176,12.601831,102.091747,2015,Thailand,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E177,17.488187,101.494309,2015,Thailand,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E178,14.966809,102.096655,2015,Thailand,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E179,14.022859,101.621766,2015,Thailand,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E181,24.186362,120.813869,2016,Taiwan ,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E182,25.109649,121.5702,2016,Taiwan ,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E183,23.95339,121.40587,2015,Taiwan ,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E186,24.502326,120.838267,2015,Taiwan ,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E188,23.98967,120.56588,2016,Taiwan ,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E189,-6.369028,34.888821,2015,Tanzania,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E190,51.60844,-1.24484,2017,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E191,51.51284,-0.16145,2017,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E192,51.51284,-0.16145,2017,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E193,51.51284,-0.16145,2017,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E194,51.51284,-0.16145,2017,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E195,51.51284,-0.16145,2017,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E197,6.25064,-75.57036,2017,Colombia,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Not_tested,Y
+E203,57.149715,-2.094278,2016,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E207,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E209,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E210,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E211,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+E212,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E213,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E216,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E217,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E219,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E220,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E221,42.871877,143.174227,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E222,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E223,51.481583,-3.17909,,UK,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E224,51.481583,-3.17909,,UK,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E225,54.525963,15.255119,2015,Europe,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+E227,-8.783195,-55.491478,2015,South America,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E228,46.818188,8.227512,2015,Europe,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E229,52.132633,5.291266,2015,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E230,52.482899,-1.89346,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E231,52.43635,-1.64647,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E232,54.525963,-105.255119,2017,North America,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E233,46.818188,8.227512,2015,Europe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E234,52.482899,-1.89346,2015,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E235,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E237,34.047863,100.619652,2015,Asia,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E238,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E239,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E241,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E246,-22.73591,140.018768,2015,Oceania,TR34/L98H,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E248,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E249,52.132633,5.291266,2015,Netherlands,TR34/L98H/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E251,34.047863,100.619652,2015,Asia,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E254,52.132633,5.291266,2015,Netherlands,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E260,-8.783195,-55.491478,2015,South America,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Not_tested,Y
+E261,-8.783195,34.508522,2015,Africa,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E263,52.132633,5.291266,2015,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E265,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E266,54.525963,15.255119,2015,Europe,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E267,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E269,54.525963,15.255119,2015,Europe,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E270,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E272,52.132633,5.291266,2015,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E275,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E276,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E277,54.525963,15.255119,2015,Europe,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E278,54.525963,15.255119,2015,Europe,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E279,-22.73591,140.018768,2015,Oceania,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E283,37.957539,-121.29245,2016,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E284,37.09024,-95.712891,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E285,40.51175,-106.01011,2015,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E286,26.24715,-98.479622,2015,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E289,51.617608,-1.068057,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E290,53.779542,-1.508761,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E292,51.603661,-1.132453,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E294,51.597187,-1.131219,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E299,51.618533,-0.776019,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E30,51.578603,-3.002994,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E300,51.618533,-0.776019,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E306,53.809,-3.015526,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E31,51.578603,-3.002994,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E311,53.25271,-2.516405,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E313,51.649206,-0.433376,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E323,55.923618,-3.176225,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E326,52.34736,-1.935833,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,Y
+E329,51.866379,-2.232073,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E331,52.132633,5.291266,2018,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E332,52.132633,5.291266,2018,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E335,52.132633,5.291266,2018,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E338,52.132633,5.291266,2018,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E340,52.132633,5.291266,2018,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E344,50.834432,-0.431149,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E345,53.315515,-1.530895,2018,UK,Wildtype/Asp262Tyr,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+E350,50.350321,-4.033167,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E351,50.350321,-4.033167,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E352,50.350321,-4.033167,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E360,52.433631,-1.790078,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E361,52.433631,-1.790078,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E363,,,2018,,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E367,52.53979,13.262126,2018,Germany,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E369,51.33087,12.439071,2018,Germany,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E37,51.505766,-3.173847,2015,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E371,51.538055,0.0125,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E372,51.538055,0.0125,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E377,53.332989,-2.214317,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E378,53.302646,-3.815881,2018,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E38,51.644322,-2.674872,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E387,51.594888,-1.12559,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E389,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E390,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E391,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E392,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E393,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E394,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E395,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E396,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E397,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E398,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E399,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E400,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E401,-38.1088427,176.2214061,2011,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E402,-46.7732247,167.6352639,2018,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E403,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E404,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E405,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E406,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E407,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E408,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E409,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E41,53.349805,-6.26031,2014,Republic of Ireland,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E410,-46.7732247,167.6352639,2012,New Zealand,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E411,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E412,-41.5000831,172.8344077,1961,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E413,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E414,-45.7571029,166.5142059,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E415,-45.7571029,166.5142059,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E416,-45.7571029,166.5142059,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E417,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E418,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E419,-40.7509269,175.6043395,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E420,-41.292095,175.6043395,2011,New Zealand,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,Y
+E421,-38.1088427,176.2214061,2011,New Zealand,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E423,-36.853157,174.7634583,1962,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E424,-46.7732247,167.6352639,2019,New Zealand,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E425,32.1656,-82.9001,2015,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E426,32.1656,-82.9001,2015,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E427,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E428,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E429,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E430,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E431,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E432,32.1656,-82.9001,2015,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E433,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E434,32.1656,-82.9001,2015,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E435,32.1656,-82.9001,2015,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E436,32.1656,-82.9001,2015,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E437,32.1656,-82.9001,2015,USA,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster1,Not_tested,N
+E438,51.60234,-1.11068,2019,UK,TR46/Y121F/T289A/S363P/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E439,51.6024,1.1107,2019,UK,TR34/L98H,MAT-1-1,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E44,53.349805,-6.26031,2015,Republic of Ireland,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E440,51.43613,-0.15618,2019,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E441,51.43613,-0.15618,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E442,51.4361,0.1562,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E443,51.4361,0.1562,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E444,53.38792,-2.29319,2019,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E445,53.3879,2.2932,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E446,53.3879,2.2932,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E447,53.3879,2.2932,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E448,51.59244,-1.45227,2019,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E449,52.0931,0.0766,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E450,51.7457,1.1348,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E451,51.7457,1.1348,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E453,54.0621,2.8047,2019,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E454,54.0621,2.8047,2019,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E455,54.06208,-2.80469,2019,UK,I242V,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E456,54.06208,-2.80469,2019,UK,I242V,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E457,54.06208,-2.80469,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E458,54.06208,-2.80469,2019,UK,I242V,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E459,54.06208,-2.80469,2019,UK,C270R,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E461,51.74774,-1.14057,2019,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E462,56.57798,-3.32081,2019,UK,Wildtype,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E463,50.88417,0.55095,2019,UK,Y121F/T289A/S363P/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E464,50.88417,0.55095,2019,UK,TR46/Y121F/T289A/S363P/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E465,50.88417,0.55095,2019,UK,TR46/Y121F/T289A/S363P/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E466,50.88417,0.55095,2019,UK,TR46/Y121F/T289A/S363P/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E467,51.43426,-0.07711,2019,UK,D430G,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E468,51.43426,-0.07711,2019,UK,D430G,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E469,51.43426,-0.07711,2019,UK,D430G,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E470,51.43426,-0.07711,2019,UK,D430G,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E471,51.43426,-0.07711,2019,UK,TR46/Y121F/T289A/S363P/I364V/G448S,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E472,51.43426,-0.07711,2019,UK,D430G,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E473,51.43426,-0.07711,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E474,51.09487,-3.82676,2019,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E475,51.75478,-0.58476,2019,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E476,51.72104,-0.61017,2019,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E477,51.72104,-0.61017,2019,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E478,51.72104,-0.61017,2019,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E479,51.72104,-0.61017,2019,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Not_tested,Y
+E48,53.349805,-6.26031,2015,Republic of Ireland,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E481,51.72104,-0.61017,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E482,51.72104,-0.61017,2019,UK,Wildtype,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E483,53.65064,-0.67943,2019,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E484,53.65064,-0.67943,2019,UK,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster1,Not_tested,N
+E485,53.65064,-0.67943,2019,UK,TR46/Y121F/T289A/G448S,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E486,53.40358,-2.17393,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E487,52.47918,-2.06726,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E488,52.6362,-2.44579,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E489,52.6362,-2.44579,2019,UK,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E49,53.349805,-6.26031,2015,Republic of Ireland,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E490,50.99756,-4.01224,2019,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E491,53.38792,-2.29319,2019,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E492,52.09307,0.07664,2019,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E493,54.06208,-2.80469,2019,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E494,54.06208,-2.80469,2019,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E495,54.06208,-2.80469,2019,UK,I242V,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E497,54.06208,-2.80469,2019,UK,I242V,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E498,54.06208,-2.80469,2019,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E499,54.06208,-2.80469,2019,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E50,53.349805,-6.26031,2015,Republic of Ireland,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E500,51.5072,0.1276,2018,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E501,51.5072,0.1276,2018,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E502,51.5072,0.1276,2018,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E503,9.171799,105.144859,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E505,10.691228,106.654811,2018,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E512,64.054472,-21.306472,2018,Iceland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E513,64.054472,-21.306472,2018,Iceland,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E514,64.054472,-21.306472,2018,Iceland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E515,64.054472,-21.306472,2018,Iceland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E516,64.054278,-21.305694,2018,Iceland,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E517,64.054278,-21.305694,2018,Iceland,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E518,64.054472,-21.306472,2018,Iceland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E519,64.054472,-21.306472,2018,Iceland,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E52,53.349805,-6.26031,2015,Republic of Ireland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E520,64.054278,-21.305694,2018,Iceland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E521,64.963051,-19.020836,2018,Iceland,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E522,64.055806,-21.303722,2018,Iceland,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E523,64.055806,-21.303722,2018,Iceland,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E524,64.055806,-21.303722,2018,Iceland,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E525,64.055278,-21.303722,2018,Iceland,TR34/L98H,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster4,Not_tested,N
+E526,64.055278,-21.303722,2018,Iceland,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Not_tested,Y
+E528,52.4336,1.7901,2018,UK,Wildtype,MAT-1-1,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E529,51.3811,2.359,2018,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E53,53.349805,-6.26031,2015,Republic of Ireland,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E530,50.8759,1.6328,2018,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_tested,Y
+E531,54.77346,56.03475,1992,Russia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E532,54.77346,56.03475,1992,Russia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E56,51.165691,10.451526,1919,Germany,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E57,-0.383106,-90.423334,1965,Ecuador,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E63,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E69,52.213385,5.263519,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E70,52.213385,5.263519,1964,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E71,52.215859,5.25336,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,N
+E73,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E74,46.227638,2.213749,1964,France,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E75,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E76,52.209246,5.293116,1964,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+E78,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E79,37.441883,-122.143019,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E81,53.349805,-6.26031,2005,Republic of Ireland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E83,53.349805,-6.26031,2005,Republic of Ireland,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E85,43.722839,10.401689,1982,Italy,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E86,13.756331,100.501765,1983,Thailand,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+E87,47.497913,19.040236,1983,Hungary,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E91,47.497912,19.040235,1977,Hungary,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_tested,Y
+E95,35.011635,135.768036,1985,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E99,-28.75322,31.893512,2002,South Africa ,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_tested,N
+U4,34.519939,-105.870087,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+U5,34.519939,-105.870087,,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+X1,51.507351,-0.127758,2018,UK,Wildtype,MAT-1-2,Experimental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_tested,N
+X2,51.507351,-0.127758,2018,UK,Wildtype,MAT-1-2,Experimental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+E422,-38.1088427,176.2214061,2012,New Zealand,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_tested,N
+C360,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster5,Not_resistant,N
+C363,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster1,Not_resistant,N
+C6,53.800755,-1.549077,2012,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_resistant,Y
+C4,53.800755,-1.549077,2012,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Not_resistant,Y
+C325,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster5,Not_resistant,N
+C88,51.507351,-0.127758,2014,UK,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Not_resistant,Y
+C420,56.162937,10.203921,2016,Denmark,TR120,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Not_resistant,N
+C396,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster4,Not_resistant,N
+C87,55.953252,-3.188267,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Not_resistant,Y
+C343,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster5,Not_resistant,N
+C111,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C121,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+C151,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C154,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C165,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C176,41.603221,-73.087749,1921,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C212,42.923809,143.196632,2015,Japan,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,Y
+C311,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C312,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C315,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C316,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C317,51.488709,-0.170508,2016,UK,M220K,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C32,48.856613,2.352222,1989,France,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C324,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C327,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C331,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C333,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+C34,51.481581,-3.17909,2013,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_resistant,Y
+C350,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,Y
+C351,51.488709,-0.170508,2016,UK,L98H/M220K,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C352,51.488709,-0.170508,2016,UK,L98H/M220K,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C355,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+C361,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C364,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+C366,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C368,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C371,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C375,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C376,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C378,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C380,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C381,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C389,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C390,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C392,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C399,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C40,51.481581,-3.17909,2014,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C422,51.46703,-0.09071,2021,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C423,51.46703,-0.09071,2021,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C424,51.46703,-0.09071,2021,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C425,51.46703,-0.09071,2021,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+C426,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C427,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C428,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C429,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C430,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C432,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C433,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+C434,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+C435,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C437,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+C438,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Not_resistant,Y
+C441,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C609,36.7783,-119.4179,2016,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+C610,31.9686,-99.9018,2015,USA,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E102,27.17667,78.008075,1997,India,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+E103,27.17667,78.008075,1997,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E104,27.17667,78.008075,1997,India,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E105,-31.253218,146.921099,1988,Australia,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E106,-31.253218,146.921099,1988,Australia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E108,-33.924869,18.424055,2001,South Africa,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E110,-33.924869,18.424055,2001,South Africa,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E111,10.823099,106.629664,2002,Vietnam,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E113,31.23039,121.473702,2004,China,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E115,30.274084,120.15507,2004,China,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E116,30.274084,120.15507,2004,China,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E118,-23.55052,-46.633309,1991,Brazil,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E119,-23.55052,-46.633309,1991,Brazil,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E121,-17.825166,31.03351,2002,Zimbabwe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E122,6.886177,79.92782,1991,Sri Lanka,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E126,-20.348404,57.552152,2002,Mauritius,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E129,33.836593,-117.914301,1999,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E132,18.52043,73.856744,1998,India,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E138,40.267194,-86.134902,,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E139,38.907192,-77.036871,,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E162,20.593683,78.962883,2012,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E164,20.593683,78.962883,2012,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E165,20.593683,78.962883,2012,India,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E184,25.079108,121.3885,2015,Taiwan ,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E187,22.782196,120.378147,2015,Taiwan ,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E200,6.25064,-75.57036,2017,Colombia,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Not_resistant,Y
+E208,43.82485,143.84176,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+E214,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E215,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E218,42.80067,143.506083,2013,Japan,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E226,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,Y
+E262,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E264,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E268,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Not_resistant,N
+E271,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+E273,46.818188,8.227512,2015,Europe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E274,54.525963,15.255119,2015,Europe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E280,51.815529,-0.36066,2015,UK,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E58,42.341868,-95.477781,1984,USA,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E59,50.4501,30.5234,1967,Ukraine,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E60,26.846694,80.946166,1968,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E61,26.846694,80.946166,1967,India,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Not_resistant,N
+E62,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E64,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E65,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E66,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+E68,52.215859,5.25336,1964,Netherlands,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+E72,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E77,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E80,39.925946,-75.11962,,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E82,53.349805,-6.26031,2005,Republic of Ireland,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E84,53.349805,-6.26031,2005,Republic of Ireland,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+E88,37.774929,-122.419416,1988,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E89,36.85292,10.321724,1983,Tunisia,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,Y
+E90,38.591052,-9.040525,1985,Portugal,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E92,46.786324,17.494077,1985,Hungary,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E93,37.774929,-122.419416,1988,USA,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E94,-23.55052,-46.633309,1991,Brazil,Wildtype,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Not_resistant,N
+E96,-17.825166,31.03351,2002,Zimbabwe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,N
+E98,8.524139,76.936638,1997,India,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Not_resistant,Y
+C2,53.800755,-1.549077,2012,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C329,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster1,Resistant,N
+C307,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+C328,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+C397,51.488709,-0.170508,2018,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+E97,-17.825166,31.03351,2002,Zimbabwe,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+C89,51.507351,-0.127758,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_resistant,Cluster3,Resistant,Y
+C337,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Resistant,N
+C1,53.800755,-1.549077,2012,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C142,51.486555,-0.219482,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C206,50.879845,4.700518,2016,Belgium,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,N
+C219,51.812565,5.837226,2003,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Resistant,N
+C221,51.812565,5.837226,2005,Netherlands,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,N
+C229,53.219383,6.566502,2009,Netherlands,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C8,52.132633,5.291266,2005,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Resistant,N
+E1,52.132633,5.291266,2008,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+E28,51.815258,-5.080186,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Resistant,Y
+E282,52.132633,5.291266,2007,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,N
+E29,51.578603,-3.002994,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Resistant,Y
+E3,52.132633,5.291266,2008,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C241,53.219383,6.566502,2016,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C118,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C119,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C146,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C162,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C173,51.488709,-0.170508,2015,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C188,25.044416,121.523606,2014,Taiwan ,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C306,51.488709,-0.170508,2016,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+C310,51.488709,-0.170508,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C332,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C377,51.488709,-0.170508,2018,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C431,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+C436,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+C440,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+C442,53.3393,6.2965,2021,Republic of Ireland,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+E13,51.441624,-3.276812,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+E169,51.484095,10.844456,2012,Germany,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+E242,51.815529,-0.36066,2015,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+E243,54.525963,15.255119,2015,Europe,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+E245,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Resistant,Y
+E39,53.349805,-6.26031,2014,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+E9,51.484577,-3.185252,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C247,52.342201,5.636742,2017,Netherlands,TR46/Y121F/T289A,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Not_resistant,Cluster3,Resistant,Y
+C248,53.219383,6.566502,2017,Netherlands,TR46/Y121F/T289A,MAT-1-2,Clinical,F219Y,G143A,H270Y,Resistant,Cluster3,Resistant,Y
+E201,57.149715,-2.094278,2016,UK,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C137,51.486555,-0.219482,2016,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C138,51.486555,-0.219482,2016,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C140,51.486555,-0.219482,2016,UK,TR34/L98H/T289A/I364V/G448S,MAT-1-2,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C90,52.205337,0.121817,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Resistant,Y
+C94,51.518222,-0.058518,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Resistant,Y
+E6,25.096074,85.313119,2011,India,TR34/L98H,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C11,28.690637,77.20994,2009,India,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C13,28.635709,77.240096,2011,India,TR34/L98H,MAT-1-1,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster4,Resistant,N
+C14,28.690637,77.20994,2012,India,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,Wildtype,Resistant,Cluster3,Resistant,Y
+C141,51.486555,-0.219482,2016,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C216,51.812565,5.837226,2000,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C227,51.924419,4.477733,2008,Netherlands,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C231,53.219383,6.566502,2010,Netherlands,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,H270Y,Resistant,Cluster3,Resistant,Y
+C246,53.219383,6.566502,2017,Netherlands,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+E12,51.550026,-3.122601,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,G143A,H270Y,Resistant,Cluster3,Resistant,Y
+E5,28.690637,77.20994,2011,India,TR34/L98H,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Resistant,Cluster1,Resistant,N
+C313,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Resistant,N
+C319,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-2,Clinical,F219Y,Wildtype,Wildtype,Resistant,Cluster3,Resistant,Y
+C349,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-1,Clinical,F219Y,G143A,H270Y,Resistant,Cluster3,Resistant,Y
+C203,50.836601,4.30708,2016,Belgium,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Resistant,Cluster2,Resistant,Y
+C204,50.836601,4.30708,2016,Belgium,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270Y,Resistant,Cluster3,Resistant,Y
+C238,51.812565,5.837226,2016,Netherlands,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Resistant,Cluster4,Resistant,N
+C107,51.488709,-0.170508,2015,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C143,51.486555,-0.219482,2017,UK,TR34/L98H,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C309,51.488709,-0.170508,2018,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C314,51.488709,-0.170508,2017,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Resistant,N
+C321,51.488709,-0.170508,2017,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,N
+C322,51.488709,-0.170508,2018,UK,TR34/L98H,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+C335,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-1,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+C340,51.488709,-0.170508,2016,UK,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster4,Resistant,N
+C439,53.3393,6.2965,2021,Republic of Ireland,Wildtype,MAT-1-2,Clinical,Wildtype,Wildtype,Wildtype,Not_tested,Cluster5,Resistant,N
+E168,51.644042,10.124085,2012,Germany,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E173,52.059497,7.935299,2012,Germany,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E180,23.762833,120.352996,2015,Taiwan ,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Not_tested,Cluster4,Resistant,Y
+E185,23.050888,121.164519,2015,Taiwan ,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Resistant,N
+E196,6.25064,-75.57036,2017,Colombia,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+E198,6.25064,-75.57036,2017,Colombia,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster4,Resistant,N
+E199,6.25064,-75.57036,2017,Colombia,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E236,34.047863,100.619652,2015,Asia,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+E240,34.047863,100.619652,2015,Asia,TR34/L98H,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Resistant,N
+E244,52.132633,5.291266,2015,Netherlands,TR34/L98H,MAT-1-1,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster2,Resistant,Y
+E247,51.815529,-0.36066,2015,UK,TR34/L98H,MAT-1-2,Environmental,Wildtype,G143A,H270Y,Not_tested,Cluster3,Resistant,Y
+E250,52.132633,5.291266,2018,Netherlands,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,N
+E252,51.815529,-0.36066,2015,UK,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Resistant,Y
+E253,51.815529,-0.36066,2015,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,H270Y,Not_tested,Cluster3,Resistant,Y
+E255,51.815529,-0.36066,2015,UK,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E256,52.132633,5.291266,2015,Netherlands,TR46/Y121F/T289A,MAT-1-1,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E257,52.132633,5.291266,2018,Netherlands,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Resistant,Y
+E258,-8.783195,-55.491478,2015,South America,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Resistant,Y
+E259,-8.783195,34.508522,2015,Africa,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,H270R,Not_tested,Cluster3,Resistant,Y
+E40,53.349805,-6.26031,2014,Republic of Ireland,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E42,53.349805,-6.26031,2016,Republic of Ireland,TR34/L98H,MAT-1-2,Environmental,F219Y,Wildtype,Wildtype,Not_tested,Cluster3,Resistant,Y
+E43,53.349805,-6.26031,2016,Republic of Ireland,TR34/L98H,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Not_tested,Cluster1,Resistant,N
+E45,53.349805,-6.26031,2015,Republic of Ireland,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E46,53.349805,-6.26031,2015,Republic of Ireland,TR46/Y121F/T289A,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,N
+E460,51.74774,-1.14057,2019,UK,TR46/Y121F/T289A,MAT-1-1,Environmental,Wildtype,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E480,51.72104,-0.61017,2019,UK,TR34/L98H,MAT-1-2,Environmental,F219Y,G143A,Wildtype,Not_tested,Cluster3,Resistant,Y
+E67,52.20877,5.299412,1964,Netherlands,Wildtype,MAT-1-2,Environmental,Wildtype,Wildtype,Wildtype,Not_tested,Cluster1,Resistant,N
